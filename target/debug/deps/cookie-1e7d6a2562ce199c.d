@@ -1,0 +1,11 @@
+C:\Users\caile\Documents\Programming\Rust\MyWebServer\target\debug\deps\libcookie-1e7d6a2562ce199c.rmeta: C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\lib.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\builder.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\parse.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\jar.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\delta.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\draft.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\caile\Documents\Programming\Rust\MyWebServer\target\debug\deps\cookie-1e7d6a2562ce199c.d: C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\lib.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\builder.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\parse.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\jar.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\delta.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\draft.rs C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\lib.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\builder.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\parse.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\jar.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\delta.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\draft.rs:
+C:\Users\caile\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cookie-0.16.2\src\expiration.rs:
